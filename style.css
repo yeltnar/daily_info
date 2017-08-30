@@ -1,0 +1,13 @@
+div{
+	padding:0px;
+	margin:0px;
+}
+
+#mainContent{
+	height:90%;
+	background-color: pink;
+}
+#top{
+	height:10%;
+	background-color: green;
+}
